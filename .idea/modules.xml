@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BionicLimbController.iml" filepath="$PROJECT_DIR$/BionicLimbController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottom-bar/bottom-bar.iml" filepath="$PROJECT_DIR$/bottom-bar/bottom-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpandroidchartlibrary-2-2-4/mpandroidchartlibrary-2-2-4.iml" filepath="$PROJECT_DIR$/mpandroidchartlibrary-2-2-4/mpandroidchartlibrary-2-2-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview-v7-24.1.1-sources/recyclerview-v7-24.1.1-sources.iml" filepath="$PROJECT_DIR$/recyclerview-v7-24.1.1-sources/recyclerview-v7-24.1.1-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace/trace.iml" filepath="$PROJECT_DIR$/trace/trace.iml" />
+    </modules>
+  </component>
+</project>

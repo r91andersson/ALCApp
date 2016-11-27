@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Robin Andersson\\Android Project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Robin Andersson\\Android Project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Robin Andersson\\Android Project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Robin Andersson\\Android Project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Master Thesis Integum\\Android project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Master Thesis Integum\\Android project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Master Thesis Integum\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Master Thesis Integum\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Master Thesis Integum\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Master Thesis Integum\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Master Thesis Integum\\Android project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Master Thesis Integum\\Android project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

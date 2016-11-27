@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Robin Andersson\\Android Project\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-nodpi\\empty_icon.png",
+        "source": "C:\\Robin Andersson\\Android Project\\App\\BionicLimbController\\bottom-bar\\src\\androidTest\\res\\drawable-nodpi\\empty_icon.png"
+    },
+    {
+        "merged": "D:\\Master Thesis Integum\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-nodpi\\empty_icon.png",
+        "source": "D:\\Master Thesis Integum\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\src\\androidTest\\res\\drawable-nodpi\\empty_icon.png"
+    },
+    {
+        "merged": "D:\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-nodpi\\empty_icon.png",
+        "source": "D:\\Gothenburg version\\App\\BionicLimbController\\bottom-bar\\src\\androidTest\\res\\drawable-nodpi\\empty_icon.png"
+    }
+]

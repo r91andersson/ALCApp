@@ -1,0 +1,1 @@
+include ':app', ':recyclerview-v7-24.1.1-sources', ':mpandroidchartlibrary-2-2-4', ':bottom-bar', ':trace'

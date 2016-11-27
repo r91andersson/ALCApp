@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('recyclerview-v7-24.1.1-sources.jar'))
