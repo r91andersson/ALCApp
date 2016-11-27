@@ -58,8 +58,6 @@ import integrum.bioniclimbcontroller.Settings_Fragment.SettingsFragment;
 
 public class MainActivity extends FragmentActivity  implements HomeFragment.HomeFragmentListener, EMGFragment.EMGFragmentListener, OverviewFragment.OverviewFragmentListener, BasicSettings.BasicSettingsListener, LoginFragment.LoginListener, ControlFragment.ControlFragmentListener,ParameterFragmentV2.ParameterV2MethodListener, AdvanceSettings.AdvanceSettingsListener{
 
-    public String commitString = "hejlloo";
-
     /**
      * Name of the connected device
      */
